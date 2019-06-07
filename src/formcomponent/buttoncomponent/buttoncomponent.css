@@ -1,0 +1,10 @@
+.button {
+  /* margin-left: 560px; */
+  margin-top: 20px;
+}
+.btn-style {
+  border-color: black;
+  background: none;
+  cursor: pointer;
+  border-radius: 40px;
+}
